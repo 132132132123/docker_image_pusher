@@ -1,8 +1,8 @@
-nginx
-alpine
-redis
-zlmediakit/zlmediakit:master
-livekit/livekit-server:latest
+alpine:3.24.1
+nginx:1.28.3-alpine
+redis:7.4.9-alpine
+zlmediakit/zlmediakit:20260710
+livekit/livekit-server:v1.13.1
 #支持私库
 
 #支持指定架构
