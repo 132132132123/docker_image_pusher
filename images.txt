@@ -2,6 +2,8 @@ alpine:3.24.1
 nginx:1.28.3-alpine
 redis:7.4.9-alpine
 livekit/livekit-server:v1.13.1
+golang:1.22-alpine
+node:20-alpine
 #支持私库
 
 #支持指定架构
